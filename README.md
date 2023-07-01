@@ -1,0 +1,3 @@
+# prsnlAssistant
+
+libraries used speechrognition
